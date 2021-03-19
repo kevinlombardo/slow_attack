@@ -1,7 +1,7 @@
 # slow_attack
 Identification and remediation of slow attack tools
 
-#Design Approach
+# Design Approach
 
 Develop a utility toolset to analyze TCP/IP data to develop signatures from network traffic patterns, and then apply user defined rules to the signatures to identify and classify the traffic (e.g. normal, scripted, attacks).
 
@@ -9,7 +9,7 @@ The slofile.py utility will have the capability to read an existing capture file
 
 The sloburn.py will have the capability to actively monitor TCP/IP traffic, and respond appropriately with user configurable items, such as LOG, ALERT, BLOCK, and KILL.
 
-#Objectives
+# Objectives
 
 1. Analyze
 
