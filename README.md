@@ -11,8 +11,9 @@ The sloburn.py will have the capability to actively monitor TCP/IP traffic, and 
 
 # UML Diagram
 
-![uml1](https://github.com/kevinlombardo/slow_attack/assets/61197327/fa23cf48-9b59-4cc3-bbfb-507765fa5c71)
-![uml2](https://github.com/kevinlombardo/slow_attack/assets/61197327/112f673a-cbcf-47ff-99bd-f7f0f915646e)
+![uml1](https://github.com/kevinlombardo/slow_attack/assets/61197327/6bdecd6a-c713-469f-9247-f3ebb4285d7c)
+![uml2](https://github.com/kevinlombardo/slow_attack/assets/61197327/0b669b02-692c-428d-b690-cee9f2b2dc42)
+
 
 # Flowchart
 
