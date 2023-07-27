@@ -9,6 +9,11 @@ The slofile.py utility will have the capability to read an existing capture file
 
 The sloburn.py will have the capability to actively monitor TCP/IP traffic, and respond appropriately with user configurable items, such as LOG, ALERT, BLOCK, and KILL.
 
+# UML Diagram
+
+![uml1](https://github.com/kevinlombardo/slow_attack/assets/61197327/fa23cf48-9b59-4cc3-bbfb-507765fa5c71)
+![uml2](https://github.com/kevinlombardo/slow_attack/assets/61197327/112f673a-cbcf-47ff-99bd-f7f0f915646e)
+
 # Objectives
 
 1. Analyze
